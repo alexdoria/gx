@@ -1,0 +1,20 @@
+body {
+  background-image: url("../img/xmas.jpg");
+  background-size: cover;
+  color: #E6E8E6 !important;
+}
+
+.main {
+  padding: 25px;
+}
+
+.btnmargin {
+  margin: 10px 0 10px 0;
+}
+
+.form-wrap {
+  width: 400px;
+  background: linear-gradient(to bottom right, #C0C5CE, #4F5B66);
+  border: 1px solid #343D46;
+  border-radius: 8px;
+}
