@@ -5,4 +5,4 @@
 
 <p>GX es una aplicación web para organizar rápidamente intercambio de regalos entre un grupo de personas. Puede ser organizado por una sola persona siempre y cuando cuente con los correos de cada uno de los intgrantes</p>
 
-<p>Puedes ver los avances en gx.ecucha.net</p>
+<p>Puedes ver los avances en <a href="gx.ecucha.net">gx.ecucha.net</a></p>
